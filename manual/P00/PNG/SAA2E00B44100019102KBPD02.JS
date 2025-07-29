@@ -1,0 +1,1 @@
+function ISAA2E00B44100019102KBPD02(){var i=0;this.Title=" Remoção";this.Name="SAA2E00B44100019102KBPD02";this.Width=475;this.Height=356;this.CallOut=new Array;this.CallOut[i++]=FS4(331,273,13,0,"'Arial','sans-serif'",0,"<b>A<br>10 x 1,25 mm</b>");}

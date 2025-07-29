@@ -1,0 +1,1 @@
+function ISAA2E00J54300065801FHPD01(){var i=0;this.Title=" Versão LHD e modelo KE:";this.Name="SAA2E00J54300065801FHPD01";this.Width=950;this.Height=326;this.CallOut=new Array;this.CallOut[i++]=FS4(501,70,12,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(150,160,12,0,"'Arial','sans-serif'",0,"<b>B</b>");}

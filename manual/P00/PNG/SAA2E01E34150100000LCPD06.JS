@@ -1,0 +1,1 @@
+function ISAA2E01E34150100000LCPD06(){var i=0;this.Title="Desmontagem da Caixa de Velocidades Manual";this.Name="SAA2E01E34150100000LCPD06";this.Width=475;this.Height=407;this.CallOut=new Array;this.CallOut[i++]=FS4(280,339,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(418,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

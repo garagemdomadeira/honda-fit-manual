@@ -1,0 +1,1 @@
+function IS0KXA00J54200000000BBPD13(){var i=0;this.Title=" Códigos de Cor dos Fios";this.Name="S0KXA00J54200000000BBPD13";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(233,43,13,0,"'Arial','sans-serif'",0,"<b>WHT/BLK</b>");}

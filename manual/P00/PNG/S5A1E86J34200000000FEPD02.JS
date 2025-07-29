@@ -1,0 +1,1 @@
+function IS5A1E86J34200000000FEPD02(){var i=0;this.Title="Verificação da Força de Fecho e da Resistência à Abertura do Tecto de Abrir";this.Name="S5A1E86J34200000000FEPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(53,26,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(82,287,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

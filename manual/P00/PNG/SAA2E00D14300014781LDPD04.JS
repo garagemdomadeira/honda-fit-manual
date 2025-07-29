@@ -1,0 +1,1 @@
+function ISAA2E00D14300014781LDPD04(){var i=0;this.Title="Montagem da Bomba Principal";this.Name="SAA2E00D14300014781LDPD04";this.Width=475;this.Height=327;this.CallOut=new Array;this.CallOut[i++]=FS4(96,150,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(32,213,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

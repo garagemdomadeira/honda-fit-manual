@@ -1,0 +1,1 @@
+function IS5A1E25E10412027161LDPD04(){var i=0;this.Title="Inspecção e Montagem da Embraiagem da Marcha-à-Frente da CVT";this.Name="S5A1E25E10412027161LDPD04";this.Width=475;this.Height=436;this.CallOut=new Array;this.CallOut[i++]=FS4(231,132,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

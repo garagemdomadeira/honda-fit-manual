@@ -1,0 +1,1 @@
+function ISAA2E02E15117300000KAPD06(){var i=0;this.Title="Remoção da CVT";this.Name="SAA2E02E15117300000KAPD06";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(340,105,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(220,339,13,0,"'Arial','sans-serif'",0,"<b>12 x 1,25 mm<br>74 N&middot;m (7,5 kgf&middot;m)</b>");}

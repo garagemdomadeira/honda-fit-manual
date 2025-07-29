@@ -1,0 +1,1 @@
+function ISAA2E00D14300014741FEPD01(){var i=0;this.Title="Ensaio do Interruptor do Nível do Fluído dos Travões";this.Name="SAA2E00D14300014741FEPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(442,121,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(236,284,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

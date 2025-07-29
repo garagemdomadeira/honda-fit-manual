@@ -1,0 +1,1 @@
+function IS3YYE00D14300014701MBPD03(){var i=0;this.Title="Afinação da Folga da Haste do Servo-Freio";this.Name="S3YYE00D14300014701MBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(121,268,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(344,280,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

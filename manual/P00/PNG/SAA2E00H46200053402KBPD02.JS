@@ -1,0 +1,1 @@
+function ISAA2E00H46200053402KBPD02(){var i=0;this.Title=" Cinto de Segurança Traseiro";this.Name="SAA2E00H46200053402KBPD02";this.Width=475;this.Height=388;this.CallOut=new Array;this.CallOut[i++]=FS4(169,352,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(15,198,13,0,"'Arial','sans-serif'",0,"<b>B<br>7/16-20 UNF<br>32 N&middot;m (3,3 kgf&middot;m)<br>   </b>");}

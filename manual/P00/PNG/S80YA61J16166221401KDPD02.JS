@@ -1,0 +1,1 @@
+function IS80YA61J16166221401KDPD02(){var i=0;this.Title="Remoção/Instalação do Painel da Porta Traseira";this.Name="S80YA61J16166221401KDPD02";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(391,119,13,0,"'Arial','sans-serif'",0,"<b>45&deg;</b>");this.CallOut[i++]=FS4(346,305,13,0,"'Arial','sans-serif'",0,"<b>Para a frente</b>");}

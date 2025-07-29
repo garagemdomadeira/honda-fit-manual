@@ -1,0 +1,1 @@
+function ISAA2E00F00000000000MAPD01(){var i=0;this.Title=" Direcção Assistida:";this.Name="SAA2E00F00000000000MAPD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

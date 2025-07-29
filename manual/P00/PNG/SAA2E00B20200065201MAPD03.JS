@@ -1,0 +1,1 @@
+function ISAA2E00B20200065201MAPD03(){var i=0;this.Title=" Traseiros:";this.Name="SAA2E00B20200065201MAPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(320,251,13,0,"'Arial','sans-serif'",0,"<b>108 N&middot;m<br>(11,0 kgf&middot;m)</b>");this.CallOut[i++]=FS4(319,200,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

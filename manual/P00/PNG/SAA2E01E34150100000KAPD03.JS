@@ -1,0 +1,1 @@
+function ISAA2E01E34150100000KAPD03(){var i=0;this.Title="Remoção da Caixa de Velocidades Manual";this.Name="SAA2E01E34150100000KAPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(117,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(332,291,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E75G24100014602FAPD02(){var i=0;this.Title="Diagnóstico de Avarias do Circuito do Motor do Ventilador";this.Name="SAA2E75G24100014602FAPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(162,34,13,0,"'Arial','sans-serif'",0,"<b>RESISTÊNCIA DO VENTILADOR</b>");}

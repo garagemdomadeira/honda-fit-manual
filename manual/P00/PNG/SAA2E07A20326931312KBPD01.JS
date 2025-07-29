@@ -1,0 +1,1 @@
+function ISAA2E07A20326931312KBPD01(){var i=0;this.Title="Substituição do HO2S Secundário";this.Name="SAA2E07A20326931312KBPD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(189,13,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(16,302,13,0,"'Arial','sans-serif'",0,"<b>B<br>44 N&middot;m <br>(4,5 kgf&middot;m)</b>");}

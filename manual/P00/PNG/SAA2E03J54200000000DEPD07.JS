@@ -1,0 +1,1 @@
+function ISAA2E03J54200000000DEPD07(){var i=0;this.Title=" Versão LHD:";this.Name="SAA2E03J54200000000DEPD07";this.Width=950;this.Height=898;this.CallOut=new Array;this.CallOut[i++]=FS4(394,15,12,0,"'Arial','sans-serif'",0,"<b>UNIDADE DE CONTROLO-RECEPTOR DO IMOBILIZADOR</b>");this.CallOut[i++]=FS4(754,870,12,0,"'Arial','sans-serif'",0,"<b>ECM/PCM</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E97H46400000000AAPD07(){var i=0;this.Title=" Unidade SRS";this.Name="SAA2E97H46400000000AAPD07";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(79,286,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(442,97,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

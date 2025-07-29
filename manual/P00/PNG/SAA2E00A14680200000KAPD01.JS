@@ -1,0 +1,1 @@
+function ISAA2E00A14680200000KAPD01(){var i=0;this.Title="Remoção das Válvulas, Molas e Vedantes das Válvulas";this.Name="SAA2E00A14680200000KAPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(404,47,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(347,18,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

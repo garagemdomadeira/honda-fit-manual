@@ -1,0 +1,1 @@
+function ISAA2E00D14300014781LCPD03(){var i=0;this.Title="Desmontagem da Bomba Principal";this.Name="SAA2E00D14300014781LCPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(75,84,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(217,290,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

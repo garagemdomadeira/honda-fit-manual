@@ -1,0 +1,1 @@
+function IS2AYA00S746001T020000PD01(){var i=0;this.Title=" Ferramentas Especiais Necessárias";this.Name="S2AYA00S746001T020000PD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

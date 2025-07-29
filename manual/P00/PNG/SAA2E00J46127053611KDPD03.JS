@@ -1,0 +1,1 @@
+function ISAA2E00J46127053611KDPD03(){var i=0;this.Title="Remoção/Instalação do Assento do Banco Dianteiro";this.Name="SAA2E00J46127053611KDPD03";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(109,55,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(125,296,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

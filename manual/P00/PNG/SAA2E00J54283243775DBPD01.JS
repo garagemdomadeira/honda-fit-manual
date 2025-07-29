@@ -1,0 +1,1 @@
+function ISAA2E00J54283243775DBPD01(){var i=0;this.Title="Localizações da Cablagem da Unidade OPDS";this.Name="SAA2E00J54283243775DBPD01";this.Width=950;this.Height=681;this.CallOut=new Array;this.CallOut[i++]=FS4(647,637,12,0,"'Arial','sans-serif'",0,"<b>CABLAGEM DA UNIDADE OPDS<br>(modelo KQ)</b>");}

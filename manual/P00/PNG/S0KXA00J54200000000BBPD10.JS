@@ -1,0 +1,1 @@
+function IS0KXA00J54200000000BBPD10(){var i=0;this.Title=" Manuseamento dos Fios e das Cablagens";this.Name="S0KXA00J54200000000BBPD10";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(173,66,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(426,66,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

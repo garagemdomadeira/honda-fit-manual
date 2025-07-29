@@ -1,0 +1,1 @@
+function ISAA2E000000000K0051BAPD07(){var i=0;this.Title="Reboque";this.Name="SAA2E000000000K0051BAPD07";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(13,217,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(123,16,13,0,"'Arial','sans-serif'",0,"<b>C</b>");this.CallOut[i++]=FS4(360,290,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

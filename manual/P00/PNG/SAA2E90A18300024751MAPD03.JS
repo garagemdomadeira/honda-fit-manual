@@ -1,0 +1,1 @@
+function ISAA2E90A18300024751MAPD03(){var i=0;this.Title="Inspecção do Bloco e do Pistão";this.Name="SAA2E90A18300024751MAPD03";this.Width=475;this.Height=346;this.CallOut=new Array;this.CallOut[i++]=FS4(121,311,13,0,"'Arial','sans-serif'",0,"<b>RÉGUA DE PRECISÃO</b>");}

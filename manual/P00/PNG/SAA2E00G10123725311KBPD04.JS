@@ -1,0 +1,1 @@
+function ISAA2E00G10123725311KBPD04(){var i=0;this.Title="Substituição do Núcleo do Evaporador do A/C";this.Name="SAA2E00G10123725311KBPD04";this.Width=475;this.Height=327;this.CallOut=new Array;this.CallOut[i++]=FS4(294,21,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(259,296,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

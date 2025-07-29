@@ -1,0 +1,1 @@
+function ISAA2E00D10600012345BBPD05(){var i=0;this.Title=" Método da Ficha SCS de Curto-circuito (Excepto Modelos KH, KD, KK):";this.Name="SAA2E00D10600012345BBPD05";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(335,356,13,0,"'Arial','sans-serif'",0,"<b>A<br>07PAZ-0010100</b>");this.CallOut[i++]=FS4(299,385,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

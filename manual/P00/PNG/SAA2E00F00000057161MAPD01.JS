@@ -1,0 +1,1 @@
+function ISAA2E00F00000057161MAPD01(){var i=0;this.Title="Verificação da Folga Rotacional do Volante";this.Name="SAA2E00F00000057161MAPD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

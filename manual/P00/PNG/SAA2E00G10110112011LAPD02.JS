@@ -1,0 +1,1 @@
+function ISAA2E00G10110112011LAPD02(){var i=0;this.Title="Reparação Geral da Embraiagem do Compressor do A/C";this.Name="SAA2E00G10110112011LAPD02";this.Width=475;this.Height=327;this.CallOut=new Array;this.CallOut[i++]=FS4(387,18,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(381,78,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

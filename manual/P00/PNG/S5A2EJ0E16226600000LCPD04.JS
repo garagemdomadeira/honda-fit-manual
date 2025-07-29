@@ -1,0 +1,1 @@
+function IS5A2EJ0E16226600000LCPD04(){var i=0;this.Title=" Tipo de Orelha";this.Name="S5A2EJ0E16226600000LCPD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(393,218,13,0,"'Arial','sans-serif'",0,"<b>G</b>");this.CallOut[i++]=FS4(371,17,13,0,"'Arial','sans-serif'",0,"<b>H</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E00J16126720361KBPD02(){var i=0;this.Title="Substituição da Borracha Exterior do Vidro da Porta Dianteira";this.Name="SAA2E00J16126720361KBPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(304,278,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(183,95,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

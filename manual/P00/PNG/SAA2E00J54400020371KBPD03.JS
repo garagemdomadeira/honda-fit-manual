@@ -1,0 +1,1 @@
+function ISAA2E00J54400020371KBPD03(){var i=0;this.Title="Substituição do Vidro e do Elevador do Vidro da Porta Dianteira";this.Name="SAA2E00J54400020371KBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(365,286,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(381,136,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

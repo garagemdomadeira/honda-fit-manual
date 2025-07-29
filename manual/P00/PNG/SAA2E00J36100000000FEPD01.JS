@@ -1,0 +1,1 @@
+function ISAA2E00J36100000000FEPD01(){var i=0;this.Title=" Teclas de operação";this.Name="SAA2E00J36100000000FEPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(10,34,13,0,"'Arial','sans-serif'",0,"<b>JOYSTICK</b>");}

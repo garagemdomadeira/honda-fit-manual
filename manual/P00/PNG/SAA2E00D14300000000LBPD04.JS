@@ -1,0 +1,1 @@
+function ISAA2E00D14300000000LBPD04(){var i=0;this.Title=" TRASEIRA:";this.Name="SAA2E00D14300000000LBPD04";this.Width=475;this.Height=356;this.CallOut=new Array;this.CallOut[i++]=FS4(16,326,13,0,"'Arial','sans-serif'",0,"<b>7 N&middot;m (0,7 kgf&middot;m)</b>");}

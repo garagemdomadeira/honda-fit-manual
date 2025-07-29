@@ -1,0 +1,1 @@
+function ISAA2E01E34150719632KBPD01(){var i=0;this.Title="Substituição do Retentor do Diferencial da M/T";this.Name="SAA2E01E34150719632KBPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(96,53,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(311,283,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

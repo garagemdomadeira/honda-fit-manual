@@ -1,0 +1,1 @@
+function ISAA2E00J36100000000LBPD01(){var i=0;this.Title="Início Forçado da Visualização do Sistema de Navegação";this.Name="SAA2E00J36100000000LBPD01";this.Width=475;this.Height=381;this.CallOut=new Array;this.CallOut[i++]=FS4(44,348,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(312,344,13,0,"'Arial','sans-serif'",0,"<b>07PAZ-0010100</b>");}

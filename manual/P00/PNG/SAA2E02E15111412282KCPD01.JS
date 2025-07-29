@@ -1,0 +1,1 @@
+function ISAA2E02E15111412282KCPD01(){var i=0;this.Title="Instalação da Alavanca das Mudanças da A/T";this.Name="SAA2E02E15111412282KCPD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(301,16,13,0,"'Arial','sans-serif'",0,"<b>8 x 1,25 mm<br>22 N&middot;m<br>(2,2 kgf&middot;m)</b>");}

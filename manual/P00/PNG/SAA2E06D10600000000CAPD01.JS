@@ -1,0 +1,1 @@
+function ISAA2E06D10600000000CAPD01(){var i=0;this.Title=" Entradas e Saídas de Sinais da Unidade de Controlo do ABS para a Ficha de 25P";this.Name="SAA2E06D10600000000CAPD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(379,255,12,0,"'Arial','sans-serif'",0,"<b></b>Lado dos fios dos terminais fêmea");}

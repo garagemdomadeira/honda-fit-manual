@@ -1,0 +1,1 @@
+function ISAA2E01E34116300000KBPD05(){var i=0;this.Title=" Remoção do Prato de Pressão e do Disco da Embraiagem";this.Name="SAA2E01E34116300000KBPD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(332,112,13,0,"'Arial','sans-serif'",0,"<b>07PAF - 0020000</b>");}

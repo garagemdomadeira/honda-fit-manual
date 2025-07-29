@@ -1,0 +1,1 @@
+function ISAA2E04J54283256721DBPD01(){var i=0;this.Title=" Versão RHD:";this.Name="SAA2E04J54283256721DBPD01";this.Width=950;this.Height=815;this.CallOut=new Array;this.CallOut[i++]=FS4(726,772,12,0,"'Arial','sans-serif'",0,"<b>CABLAGEM SECUNDÁRIA DO <br>SENSOR SRS DIANTEIRO ESQUERDO</b>");}

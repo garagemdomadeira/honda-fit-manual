@@ -1,0 +1,1 @@
+function ISAA2E00J54460647123KBPD02(){var i=0;this.Title=" Interruptor Geral:";this.Name="SAA2E00J54460647123KBPD02";this.Width=475;this.Height=426;this.CallOut=new Array;this.CallOut[i++]=FS4(151,17,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(356,342,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

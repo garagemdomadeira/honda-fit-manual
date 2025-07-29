@@ -1,0 +1,1 @@
+function ISAA2E00J18533200000MBPD02(){var i=0;this.Title="Afinação do Capot";this.Name="SAA2E00J18533200000MBPD02";this.Width=475;this.Height=407;this.CallOut=new Array;}

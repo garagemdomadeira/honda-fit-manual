@@ -1,0 +1,1 @@
+function ISAA2E00J54400048101KBPD01(){var i=0;this.Title="Substituição do Vidro de Quarto";this.Name="SAA2E00J54400048101KBPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(113,242,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

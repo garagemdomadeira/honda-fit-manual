@@ -1,0 +1,1 @@
+function ISAA2E00A32200043301KBPD08(){var i=0;this.Title=" Filtro do Óleo do Motor FABRICADO NO JAPÃO (tipo de 3/4 de volta)";this.Name="SAA2E00A32200043301KBPD08";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(127,321,13,0,"'Arial','sans-serif'",0,"<b>07HAA-PJ70100</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E00A14100012901LAPD13(){var i=0;this.Title=" Inspecção das Escovas do Alternador";this.Name="SAA2E00A14100012901LAPD13";this.Width=475;this.Height=320;this.CallOut=new Array;}

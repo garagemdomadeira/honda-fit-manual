@@ -1,0 +1,1 @@
+function ISAA2E99E15136455101FEPD01(){var i=0;this.Title="Ensaio do Solenóide de Bloqueio das Mudanças da A/T";this.Name="SAA2E99E15136455101FEPD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

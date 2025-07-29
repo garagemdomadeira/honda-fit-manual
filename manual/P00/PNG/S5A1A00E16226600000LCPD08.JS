@@ -1,0 +1,1 @@
+function IS5A1A00E16226600000LCPD08(){var i=0;this.Title=" Lado da União Exterior:";this.Name="S5A1A00E16226600000LCPD08";this.Width=475;this.Height=320;this.CallOut=new Array;}

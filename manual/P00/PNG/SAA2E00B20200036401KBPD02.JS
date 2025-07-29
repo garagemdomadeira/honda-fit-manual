@@ -1,0 +1,1 @@
+function ISAA2E00B20200036401KBPD02(){var i=0;this.Title=" Remoção da Articulação da Manga de Eixo";this.Name="SAA2E00B20200036401KBPD02";this.Width=475;this.Height=414;this.CallOut=new Array;this.CallOut[i++]=FS4(360,28,13,0,"'Arial','sans-serif'",0,"<b>108 N&middot;m<br>(11,0 kgf&middot;m)</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E00A14400065101MAPD02(){var i=0;this.Title="Inspecção da Bomba da Água";this.Name="SAA2E00A14400065101MAPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(396,288,13,8,"'Arial','sans-serif'",0,"<b>A</b>");}

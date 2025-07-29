@@ -1,0 +1,1 @@
+function ISAA2E02E15117519631KBPD03(){var i=0;this.Title="Substituição do Retentor do Diferencial da CVT";this.Name="SAA2E02E15117519631KBPD03";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(355,66,13,0,"'Arial','sans-serif'",0,"<b>07749-0010000</b>");this.CallOut[i++]=FS4(342,311,13,0,"'Arial','sans-serif'",0,"<b>07NAD-PX40100</b>");}

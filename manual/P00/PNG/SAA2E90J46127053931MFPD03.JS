@@ -1,0 +1,1 @@
+function ISAA2E90J46127053931MFPD03(){var i=0;this.Title=" Capa do Encosto do Banco";this.Name="SAA2E90J46127053931MFPD03";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(226,322,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(350,135,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

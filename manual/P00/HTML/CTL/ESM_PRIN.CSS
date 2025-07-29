@@ -1,0 +1,130 @@
+/* Variáveis CSS */
+:root {
+    --print-text-color: #000;
+    --print-border-color: #999;
+    --print-background: #fff;
+}
+
+/* Elementos de controle ocultos */
+input, button, textarea {
+    display: none;
+}
+
+/* Estilos de texto */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: var(--print-text-color);
+    line-height: 1.5;
+    background: var(--print-background);
+}
+
+caption {
+    text-align: left;
+    margin-bottom: 0.5em;
+}
+
+ul {
+    margin-left: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style-type: disc;
+}
+
+/* Estilos de tabela para impressão */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0.5em 0;
+    page-break-inside: avoid;
+}
+
+table.Top {
+    border-top: thin solid var(--print-border-color);
+}
+
+table.Bot, td.B, th.B {
+    border-bottom: thin solid var(--print-border-color);
+}
+
+table.TopBot {
+    border-top: thin solid var(--print-border-color);
+    border-bottom: thin solid var(--print-border-color);
+}
+
+table.Sides {
+    border-left: thin solid var(--print-border-color);
+    border-right: thin solid var(--print-border-color);
+}
+
+table.All {
+    border: thin solid var(--print-border-color);
+}
+
+td.R, th.R {
+    border-right: thin solid var(--print-border-color);
+}
+
+td.RB, th.RB {
+    border-right: thin solid var(--print-border-color);
+    border-bottom: thin solid var(--print-border-color);
+}
+
+/* Células especiais */
+td.DTC {
+    font-size: larger;
+    font-weight: bold;
+}
+
+/* Imagens e símbolos */
+img.Sym {
+    height: 1.5em;
+    vertical-align: middle;
+}
+
+/* Figuras */
+p.FIG {
+    margin: 0.5em 0 0 0;
+    page-break-inside: avoid;
+}
+
+div.FIG, div.FIGN {
+    text-indent: 0;
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+    page-break-inside: avoid;
+    margin: 0.5em 0;
+}
+
+/* Tabelas de atenção */
+table.ATT {
+    border: medium solid var(--print-border-color);
+    padding: 0;
+    margin: 1em 0;
+    page-break-inside: avoid;
+}
+
+td.ATT1 {
+    background: var(--print-text-color);
+    color: var(--print-background);
+    padding: 0.3em 0.5em;
+}
+
+td.ATT2 {
+    padding: 0.5em;
+}
+
+/* Controle de impressão */
+div#PRINT {
+    display: none;
+}
+
+/* Quebras de página */
+h1, h2, h3 {
+    page-break-after: avoid;
+}
+
+img {
+    max-width: 100% !important;
+}

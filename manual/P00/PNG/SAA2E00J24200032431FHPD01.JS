@@ -1,0 +1,1 @@
+function ISAA2E00J24200032431FHPD01(){var i=0;this.Title="Ensaio/Substituição da Buzina";this.Name="SAA2E00J24200032431FHPD01";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(84,40,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(114,305,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

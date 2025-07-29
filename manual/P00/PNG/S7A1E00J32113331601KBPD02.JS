@@ -1,0 +1,1 @@
+function IS7A1E00J32113331601KBPD02(){var i=0;this.Title="Substituição da Luz Elevada dos Travões";this.Name="S7A1E00J32113331601KBPD02";this.Width=475;this.Height=455;this.CallOut=new Array;this.CallOut[i++]=FS4(211,417,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(372,61,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E07A20326428001FAPD03(){var i=0;this.Title="Inspecção da Linha do Respirador e da Linha de Aspiração";this.Name="SAA2E07A20326428001FAPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(112,275,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(348,271,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

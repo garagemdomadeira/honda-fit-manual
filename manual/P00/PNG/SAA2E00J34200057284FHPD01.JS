@@ -1,0 +1,1 @@
+function ISAA2E00J34200057284FHPD01(){var i=0;this.Title="Ensaio/Substituição do Interruptor do Tecto de Abrir";this.Name="SAA2E00J34200057284FHPD01";this.Width=475;this.Height=481;this.CallOut=new Array;this.CallOut[i++]=FS4(397,341,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(366,452,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

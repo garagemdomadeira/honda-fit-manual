@@ -1,0 +1,1 @@
+function ISAA2E98K72100000000BBPD04(){var i=0;this.Title=" Como Diagnosticar Avarias nos Circuitos do ECM/PCM";this.Name="SAA2E98K72100000000BBPD04";this.Width=475;this.Height=513;this.CallOut=new Array;this.CallOut[i++]=FS4(376,416,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

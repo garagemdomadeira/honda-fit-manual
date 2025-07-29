@@ -1,0 +1,1 @@
+function IS80WA00SHAZSG0T050000PD01(){var i=0;this.Title=" Ferramenta Especial Necessária";this.Name="S80WA00SHAZSG0T050000PD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

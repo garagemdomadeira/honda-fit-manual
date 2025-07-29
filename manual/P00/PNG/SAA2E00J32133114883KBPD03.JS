@@ -1,0 +1,1 @@
+function ISAA2E00J32133114883KBPD03(){var i=0;this.Title="Substituição da Lâmpada do Farol";this.Name="SAA2E00J32133114883KBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(35,157,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(118,263,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

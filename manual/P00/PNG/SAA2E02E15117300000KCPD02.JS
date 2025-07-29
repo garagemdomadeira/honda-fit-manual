@@ -1,0 +1,1 @@
+function ISAA2E02E15117300000KCPD02(){var i=0;this.Title="Instalação da CVT";this.Name="SAA2E02E15117300000KCPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(36,71,13,0,"'Arial','sans-serif'",0,"<b>8 x 1,25 mm<br>22 N&middot;m (2,2 kgf&middot;m)</b>");}

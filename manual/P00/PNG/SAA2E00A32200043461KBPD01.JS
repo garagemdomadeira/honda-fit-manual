@@ -1,0 +1,1 @@
+function ISAA2E00A32200043461KBPD01(){var i=0;this.Title="Substituição do Pressostato do Óleo do Motor";this.Name="SAA2E00A32200043461KBPD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(155,17,13,0,"'Arial','sans-serif'",0,"<b>B<br>18 N&middot;m (1,8 kgf&middot;m)</b>");this.CallOut[i++]=FS4(37,165,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

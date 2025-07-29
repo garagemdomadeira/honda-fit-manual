@@ -1,0 +1,1 @@
+function ISAA2E07A20336359411KDPD02(){var i=0;this.Title="Remoção/Instalação do Cabo do Acelerador";this.Name="SAA2E07A20336359411KDPD02";this.Width=475;this.Height=497;this.CallOut=new Array;this.CallOut[i++]=FS4(347,165,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(309,331,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

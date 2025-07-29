@@ -1,0 +1,1 @@
+function IS5A1E00E16226600000LCPD03(){var i=0;this.Title=" Tipo de Baixo Perfil";this.Name="S5A1E00E16226600000LCPD03";this.Width=475;this.Height=327;this.CallOut=new Array;this.CallOut[i++]=FS4(398,208,13,0,"'Arial','sans-serif'",0,"<b>G</b>");this.CallOut[i++]=FS4(337,291,13,0,"'Arial','sans-serif'",0,"<b>F</b>");}

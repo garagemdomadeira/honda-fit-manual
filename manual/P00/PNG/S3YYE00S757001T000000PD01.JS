@@ -1,0 +1,1 @@
+function IS3YYE00S757001T000000PD01(){var i=0;this.Title=" Ferramentas Especiais Necessárias";this.Name="S3YYE00S757001T000000PD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

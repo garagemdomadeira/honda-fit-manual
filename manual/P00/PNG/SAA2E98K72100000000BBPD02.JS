@@ -1,0 +1,1 @@
+function ISAA2E98K72100000000BBPD02(){var i=0;this.Title=" Como Desmemorizar o ECM/PCM";this.Name="SAA2E98K72100000000BBPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(427,51,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(320,263,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

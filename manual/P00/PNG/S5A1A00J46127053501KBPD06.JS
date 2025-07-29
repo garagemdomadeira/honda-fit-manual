@@ -1,0 +1,1 @@
+function IS5A1A00J46127053501KBPD06(){var i=0;this.Title=" Capa do Encosto do Banco";this.Name="S5A1A00J46127053501KBPD06";this.Width=475;this.Height=436;this.CallOut=new Array;this.CallOut[i++]=FS4(169,24,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

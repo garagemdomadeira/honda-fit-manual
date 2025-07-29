@@ -1,0 +1,1 @@
+function ISAA2E04J54283227051DBPD02(){var i=0;this.Title=" Versão RHD:";this.Name="SAA2E04J54283227051DBPD02";this.Width=950;this.Height=953;this.CallOut=new Array;this.CallOut[i++]=FS4(653,15,12,0,"'Arial','sans-serif'",0,"<b>CABLAGEM DO PISO</b>");this.CallOut[i++]=FS4(141,925,12,0,"'Arial','sans-serif'",0,"<b>G501</b>");}

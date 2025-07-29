@@ -1,0 +1,1 @@
+function IS7A1E11A14680263041LBPD03(){var i=0;this.Title="Rectificação da Sede da Válvula";this.Name="S7A1E11A14680263041LBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(181,63,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

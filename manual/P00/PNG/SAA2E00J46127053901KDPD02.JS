@@ -1,0 +1,1 @@
+function ISAA2E00J46127053901KDPD02(){var i=0;this.Title="Remoção/Instalação do Banco Dianteiro";this.Name="SAA2E00J46127053901KDPD02";this.Width=475;this.Height=641;this.CallOut=new Array;this.CallOut[i++]=FS4(38,373,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(436,70,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

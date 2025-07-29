@@ -1,0 +1,132 @@
+/* Variáveis CSS */
+:root {
+    --text-color: #333;
+    --border-color: #e0e0e0;
+    --background-attention: #f5f5f5;
+}
+
+/* Elementos de controle ocultos */
+input, button, textarea {
+    display: none;
+}
+
+/* Estilos de texto */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: var(--text-color);
+    line-height: 1.4;
+}
+
+caption {
+    text-align: left;
+    padding: 0.3em 0;
+}
+
+ul {
+    margin-left: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+/* Hierarquia de títulos */
+h2 {
+    font-size: small;
+    margin: 0.5em 0;
+}
+
+h3 {
+    font-size: x-small;
+    margin: 0.4em 0;
+}
+
+table, body, h4, h5 {
+    font-size: xx-small;
+}
+
+/* Estilos de tabela */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table.Top {
+    border-top: thin solid var(--border-color);
+}
+
+table.Bot, td.B, th.B {
+    border-bottom: thin solid var(--border-color);
+}
+
+table.TopBot {
+    border-top: thin solid var(--border-color);
+    border-bottom: thin solid var(--border-color);
+}
+
+table.Sides {
+    border-left: thin solid var(--border-color);
+    border-right: thin solid var(--border-color);
+}
+
+table.All {
+    border: thin solid var(--border-color);
+}
+
+td.R, th.R {
+    border-right: thin solid var(--border-color);
+}
+
+td.RB, th.RB {
+    border-right: thin solid var(--border-color);
+    border-bottom: thin solid var(--border-color);
+}
+
+/* Células especiais */
+td.DTC {
+    font-size: larger;
+    font-weight: 500;
+}
+
+/* Imagens e símbolos */
+img.Sym {
+    height: 1.5em;
+    vertical-align: bottom;
+}
+
+/* Figuras */
+p.FIG {
+    margin: 0.5em 0 0 0;
+}
+
+div.FIG, div.FIGN {
+    text-indent: 0;
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+    margin: 0.3em 0;
+}
+
+/* Tabelas de atenção */
+table.ATT {
+    border: medium solid var(--border-color);
+    border-radius: 3px;
+    overflow: hidden;
+    margin: 0.5em 0;
+}
+
+td.ATT1 {
+    background: var(--text-color);
+    color: white;
+    padding: 0.3em;
+}
+
+td.ATT2 {
+    padding: 0.5em;
+    background: var(--background-attention);
+}
+
+/* Impressão */
+div#PRINT {
+    display: block;
+}

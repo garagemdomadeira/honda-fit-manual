@@ -1,0 +1,1 @@
+function ISAA2E00A18316600000KAPD01(){var i=0;this.Title="Remoção da Cambota e dos Pistões";this.Name="SAA2E00A18316600000KAPD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(345,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(436,187,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

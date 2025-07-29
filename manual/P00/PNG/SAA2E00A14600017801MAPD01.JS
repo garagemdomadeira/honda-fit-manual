@@ -1,0 +1,1 @@
+function ISAA2E00A14600017801MAPD01(){var i=0;this.Title="Inspecção do Empeno da Cabeça do Motor";this.Name="SAA2E00A14600017801MAPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(16,16,13,0,"'Arial','sans-serif'",0,"<b>RÉGUA DE PRECISÃO</b>");}

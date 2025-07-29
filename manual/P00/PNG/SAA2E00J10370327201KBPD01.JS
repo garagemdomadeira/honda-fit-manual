@@ -1,0 +1,1 @@
+function ISAA2E00J10370327201KBPD01(){var i=0;this.Title="Substituição do Altifalante";this.Name="SAA2E00J10370327201KBPD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(373,354,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(20,366,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E00A18316217201KBPD01(){var i=0;this.Title=" Localização do Código do Moente da Biela";this.Name="SAA2E00A18316217201KBPD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(90,317,13,0,"'Arial','sans-serif'",0,"<b>MOENTE N&ordm; 4</b>");this.CallOut[i++]=FS4(260,316,13,0,"'Arial','sans-serif'",0,"<b>MOENTE N&ordm; 1</b>");}

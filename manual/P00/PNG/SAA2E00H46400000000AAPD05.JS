@@ -1,0 +1,1 @@
+function ISAA2E00H46400000000AAPD05(){var i=0;this.Title=" Airbag Lateral";this.Name="SAA2E00H46400000000AAPD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(80,137,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(132,98,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

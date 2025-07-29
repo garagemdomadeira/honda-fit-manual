@@ -1,0 +1,1 @@
+function ISAA2E00J34200057260KBPD03(){var i=0;this.Title="Substituição da Corrediça da Calha de Dreno do Tecto de Abrir e do Conjunto do Cabo";this.Name="SAA2E00J34200057260KBPD03";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(429,210,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(196,17,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

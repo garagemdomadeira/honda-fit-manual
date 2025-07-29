@@ -1,0 +1,1 @@
+function IS80WA00H46400000000AAPD10(){var i=0;this.Title=" Precauções para Inspecções Eléctricas";this.Name="S80WA00H46400000000AAPD10";this.Width=475;this.Height=320;this.CallOut=new Array;}

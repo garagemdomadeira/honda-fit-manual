@@ -1,0 +1,1 @@
+function ISAA2E00H46400012802LBPD02(){var i=0;this.Title=" Airbag do Passageiro Dianteiro:";this.Name="SAA2E00H46400012802LBPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(389,80,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(236,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

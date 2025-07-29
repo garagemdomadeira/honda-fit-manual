@@ -1,0 +1,1 @@
+function IS80WA91A26100055901MAPD03(){var i=0;this.Title="Inspecção da Vela de Ignição";this.Name="S80WA91A26100055901MAPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(299,96,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function IS5A1E25E10412000000KCPD10(){var i=0;this.Title="Montagem da CVT";this.Name="S5A1E25E10412000000KCPD10";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(228,20,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

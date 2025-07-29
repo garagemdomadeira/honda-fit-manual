@@ -1,0 +1,1 @@
+function ISAA2E00K79100000000BBPD01(){var i=0;this.Title=" Método do Menu &quot;SRS&quot; do PGM Tester:";this.Name="SAA2E00K79100000000BBPD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(172,152,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(722,196,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

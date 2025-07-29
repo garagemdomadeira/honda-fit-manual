@@ -1,0 +1,1 @@
+function ISAA2E00A46500056941FEPD01(){var i=0;this.Title="Ensaio do Solenóide do Motor de Arranque";this.Name="SAA2E00A46500056941FEPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(108,284,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(270,283,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

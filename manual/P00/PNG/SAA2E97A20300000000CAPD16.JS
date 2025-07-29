@@ -1,0 +1,1 @@
+function ISAA2E97A20300000000CAPD16(){var i=0;this.Title=" Corpo da Borboleta";this.Name="SAA2E97A20300000000CAPD16";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(6,31,13,0,"'Arial','sans-serif'",0,"<b>SENSOR TP</b>");this.CallOut[i++]=FS4(10,321,13,0,"'Arial','sans-serif'",0,"<b>VÁLVULA IAC</b>");}

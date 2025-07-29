@@ -1,0 +1,1 @@
+function ISAA2E00B44100032511KBPD02(){var i=0;this.Title="Substituição da Unidade do Rolamento do Cubo Traseiro - Travão de Tambor Traseiro";this.Name="SAA2E00B44100032511KBPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(354,72,13,0,"'Arial','sans-serif'",0,"<b>108 N&middot;m<br>(11,0 kgf&middot;m)</b>");}

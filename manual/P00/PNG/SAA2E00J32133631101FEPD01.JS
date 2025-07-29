@@ -1,0 +1,1 @@
+function ISAA2E00J32133631101FEPD01(){var i=0;this.Title="Ensaio do Interruptor de Regulação do Farol";this.Name="SAA2E00J32133631101FEPD01";this.Width=475;this.Height=497;this.CallOut=new Array;this.CallOut[i++]=FS4(449,466,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(374,467,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function IS5A1A00A20326428001KAPD03(){var i=0;this.Title="Remoção da Linha do Combustível/Uniões de Ligação Rápida";this.Name="S5A1A00A20326428001KAPD03";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(438,388,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

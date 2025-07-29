@@ -1,0 +1,1 @@
+function ISAA2E00D14300014811KBPD03(){var i=0;this.Title=" Montagem";this.Name="SAA2E00D14300014811KBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(109,17,13,0,"'Arial','sans-serif'",0,"<b>Bordo traseiro do calço.</b>");}

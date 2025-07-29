@@ -1,0 +1,1 @@
+function IS0KXA12J36100000000CAPD12(){var i=0;this.Title=" Precisão do GPS";this.Name="S0KXA12J36100000000CAPD12";this.Width=475;this.Height=475;this.CallOut=new Array;}

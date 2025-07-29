@@ -1,0 +1,1 @@
+function ISAA2E99E15117700000CAPD04(){var i=0;this.Title=" Controlo do Modo de 7 Velocidades";this.Name="SAA2E99E15117700000CAPD04";this.Width=950;this.Height=335;this.CallOut=new Array;this.CallOut[i++]=FS4(688,283,12,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(472,15,12,0,"'Arial','sans-serif'",0,"<b>B</b>");}

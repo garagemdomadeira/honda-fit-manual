@@ -1,0 +1,1 @@
+function ISAA2E01K72100081342FAPD06(){var i=0;this.Title="Diagnóstico de Avarias por DTC: P0563 (34-2)";this.Name="SAA2E01K72100081342FAPD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(75,156,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(377,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

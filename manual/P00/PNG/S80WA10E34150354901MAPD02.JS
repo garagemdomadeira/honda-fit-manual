@@ -1,0 +1,1 @@
+function IS80WA10E34150354901MAPD02(){var i=0;this.Title="Inspecção da Folga das Forquilhas das Mudanças";this.Name="S80WA10E34150354901MAPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(123,279,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

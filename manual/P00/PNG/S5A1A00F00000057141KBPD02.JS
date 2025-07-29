@@ -1,0 +1,1 @@
+function IS5A1A00F00000057141KBPD02(){var i=0;this.Title="Substituição da Tranca da Direcção";this.Name="S5A1A00F00000057141KBPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(313,40,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(217,261,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

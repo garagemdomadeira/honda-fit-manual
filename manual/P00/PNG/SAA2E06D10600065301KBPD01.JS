@@ -1,0 +1,1 @@
+function ISAA2E06D10600065301KBPD01(){var i=0;this.Title=" Dianteiro";this.Name="SAA2E06D10600065301KBPD01";this.Width=950;this.Height=511;this.CallOut=new Array;this.CallOut[i++]=FS4(705,462,12,0,"'Arial','sans-serif'",0,"<b>SENSOR DA RODA</b>");this.CallOut[i++]=FS4(704,158,12,0,"'Arial','sans-serif'",0,"<b>PARAFUSO de 6 mm<br>9,8 N&middot;m (1,0 kgf&middot;m)</b>");}

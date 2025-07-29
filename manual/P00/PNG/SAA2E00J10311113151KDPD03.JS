@@ -1,0 +1,1 @@
+function ISAA2E00J10311113151KDPD03(){var i=0;this.Title="Remoção/Instalação da Unidade Áudio";this.Name="SAA2E00J10311113151KDPD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(370,301,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(419,62,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

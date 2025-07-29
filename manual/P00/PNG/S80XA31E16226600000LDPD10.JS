@@ -1,0 +1,1 @@
+function IS80XA31E16226600000LDPD10(){var i=0;this.Title=" Lado da União Interior:";this.Name="S80XA31E16226600000LDPD10";this.Width=475;this.Height=420;this.CallOut=new Array;this.CallOut[i++]=FS4(423,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(438,64,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

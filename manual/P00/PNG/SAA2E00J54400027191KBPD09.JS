@@ -1,0 +1,1 @@
+function ISAA2E00J54400027191KBPD09(){var i=0;this.Title="Substituição do Vidro de Canto Dianteiro";this.Name="SAA2E00J54400027191KBPD09";this.Width=475;this.Height=407;this.CallOut=new Array;this.CallOut[i++]=FS4(158,41,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(112,372,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

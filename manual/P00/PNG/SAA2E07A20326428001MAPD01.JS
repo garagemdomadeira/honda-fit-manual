@@ -1,0 +1,1 @@
+function ISAA2E07A20326428001MAPD01(){var i=0;this.Title="Inspecção da Linha do Combustível";this.Name="SAA2E07A20326428001MAPD01";this.Width=950;this.Height=655;this.CallOut=new Array;this.CallOut[i++]=FS4(89,590,12,0,"'Arial','sans-serif'",0,"<b>Certifique-se que a ligação se encontra<br>fixa e a união de ligação rápida<br> está firmemente bloqueada no lugar.</b>");}

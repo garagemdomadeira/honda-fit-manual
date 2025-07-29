@@ -1,0 +1,1 @@
+function ISAA2E00G24166150431FHPD01(){var i=0;this.Title="Ensaio/Substituição do Interruptor do Desembaciador do Vidro Traseiro";this.Name="SAA2E00G24166150431FHPD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(229,371,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(76,169,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

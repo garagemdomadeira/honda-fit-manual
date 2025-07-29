@@ -1,0 +1,1 @@
+function ISAA2E00A14100012901LAPD09(){var i=0;this.Title="Reparação Geral do Alternador";this.Name="SAA2E00A14100012901LAPD09";this.Width=475;this.Height=324;this.CallOut=new Array;}

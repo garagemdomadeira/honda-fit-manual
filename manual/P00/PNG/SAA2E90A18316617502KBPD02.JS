@@ -1,0 +1,1 @@
+function ISAA2E90A18316617502KBPD02(){var i=0;this.Title=" Localização do Código do Moente Principal";this.Name="SAA2E90A18316617502KBPD02";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(90,317,13,0,"'Arial','sans-serif'",0,"<b>MOENTE N&ordm; 5</b>");this.CallOut[i++]=FS4(260,316,13,0,"'Arial','sans-serif'",0,"<b>MOENTE N&ordm; 1</b>");}

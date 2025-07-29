@@ -1,0 +1,1 @@
+function IS80WA31A18300024751MAPD04(){var i=0;this.Title="Inspecção do Bloco e do Pistão";this.Name="S80WA31A18300024751MAPD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(203,16,13,0,"'Arial','sans-serif'",0,"<b>FOLGA<br>PISTÃO-CILINDRO</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E00A18360200000KCPD02(){var i=0;this.Title=" Se a cambota não estiver instalada";this.Name="SAA2E00A18360200000KCPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(366,215,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

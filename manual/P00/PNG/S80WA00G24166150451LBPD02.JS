@@ -1,0 +1,1 @@
+function IS80WA00G24166150451LBPD02(){var i=0;this.Title="Reparação do Desembaciador do Vidro Traseiro";this.Name="S80WA00G24166150451LBPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(352,200,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}

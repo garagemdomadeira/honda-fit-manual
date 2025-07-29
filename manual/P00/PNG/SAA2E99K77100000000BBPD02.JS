@@ -1,0 +1,1 @@
+function ISAA2E99K77100000000BBPD02(){var i=0;this.Title=" Procedimento de Desmemorização do PCM";this.Name="SAA2E99K77100000000BBPD02";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(262,302,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(76,283,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

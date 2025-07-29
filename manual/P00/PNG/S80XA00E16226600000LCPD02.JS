@@ -1,0 +1,1 @@
+function IS80XA00E16226600000LCPD02(){var i=0;this.Title=" Tipo Soldada";this.Name="S80XA00E16226600000LCPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(65,84,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(377,30,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

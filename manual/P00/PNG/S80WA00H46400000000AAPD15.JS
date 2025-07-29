@@ -1,0 +1,1 @@
+function IS80WA00H46400000000AAPD15(){var i=0;this.Title=" Fichas com Trinco Accionado por Mola da Sonda Traseira";this.Name="S80WA00H46400000000AAPD15";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(296,288,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

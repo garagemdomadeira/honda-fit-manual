@@ -1,0 +1,1 @@
+function ISAA2E02E15180113031MAPD01(){var i=0;this.Title="Inspecção do Filtro de Rede do ATF";this.Name="SAA2E02E15180113031MAPD01";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(373,83,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(144,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E07A20326936301KBPD01(){var i=0;this.Title="Substituição do Sensor de Detonação";this.Name="SAA2E07A20326936301KBPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(292,259,13,0,"'Arial','sans-serif'",0,"<b>A<br>31 N&middot;m<br>(3,2 kgf&middot;m)</b>");}

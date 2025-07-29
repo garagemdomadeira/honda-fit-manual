@@ -1,0 +1,1 @@
+function ISAA2E02E15117900000MAPD01(){var i=0;this.Title="Inspecção da Folga da Coquilha do Planetário do Veio de Entrada da CVT";this.Name="SAA2E02E15117900000MAPD01";this.Width=475;this.Height=446;this.CallOut=new Array;this.CallOut[i++]=FS4(368,13,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(132,16,13,0,"'Arial','sans-serif'",0,"<b>30,7 mm </b>");}

@@ -1,0 +1,1 @@
+function ISAA2E01E34150727002KBPD01(){var i=0;this.Title="Substituição da Coquilha/Carreto Final do Diferencial da M/T";this.Name="SAA2E01E34150727002KBPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(183,15,13,0,"'Arial','sans-serif'",0,"<b>10 x 1,0 mm (10)<br>101 N&middot;m (10,3 kgf&middot;m)</b>");}

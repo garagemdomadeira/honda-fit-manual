@@ -1,0 +1,1 @@
+function ISAA2E00A20326939902FAPD08(){var i=0;this.Title="Diagnóstico de Avarias do Circuito da MIL";this.Name="SAA2E00A20326939902FAPD08";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(89,164,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(377,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

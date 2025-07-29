@@ -1,0 +1,1 @@
+function ISAA2E00J54300065801FHPD02(){var i=0;this.Title=" Versão RHD excepto KE:";this.Name="SAA2E00J54300065801FHPD02";this.Width=950;this.Height=355;this.CallOut=new Array;this.CallOut[i++]=FS4(792,110,12,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(411,95,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}

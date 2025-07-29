@@ -1,0 +1,1 @@
+function ISAA2E00J34200057257KBPD03(){var i=0;this.Title="Substituição da Calha de Dreno do Tecto de Abrir";this.Name="SAA2E00J34200057257KBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(321,31,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function IS5A1A00J16126721401KDPD05(){var i=0;this.Title="Remoção/Instalação do Painel da Porta Dianteira";this.Name="S5A1A00J16126721401KDPD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(393,128,13,0,"'Arial','sans-serif'",0,"<b>45&deg;</b>");this.CallOut[i++]=FS4(314,270,13,0,"'Arial','sans-serif'",0,"<b>Marcha-à-Frente</b>");}

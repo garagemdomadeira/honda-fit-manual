@@ -1,0 +1,1 @@
+function ISAA2E00B20200065201MAPD02(){var i=0;this.Title=" Dianteiros:";this.Name="SAA2E00B20200065201MAPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(312,249,13,0,"'Arial','sans-serif'",0,"<b>108 N&middot;m<br>(11,0 kgf&middot;m)</b>");this.CallOut[i++]=FS4(310,129,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

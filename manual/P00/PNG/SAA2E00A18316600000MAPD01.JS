@@ -1,0 +1,1 @@
+function ISAA2E00A18316600000MAPD01(){var i=0;this.Title=" Ovalização e Conicidade";this.Name="SAA2E00A18316600000MAPD01";this.Width=475;this.Height=590;this.CallOut=new Array;}

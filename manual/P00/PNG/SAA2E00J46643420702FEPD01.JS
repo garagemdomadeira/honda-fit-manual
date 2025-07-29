@@ -1,0 +1,1 @@
+function ISAA2E00J46643420702FEPD01(){var i=0;this.Title="Interruptor do Canhão da Fechadura da Porta";this.Name="SAA2E00J46643420702FEPD01";this.Width=475;this.Height=481;this.CallOut=new Array;this.CallOut[i++]=FS4(304,83,13,0,"'Arial','sans-serif'",0,"<b></b>Lado dos fios<br>dos terminais fêmea");}

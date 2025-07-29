@@ -1,0 +1,1 @@
+function IS6M2E46K79100081151FAPD02(){var i=0;this.Title="Diagnóstico de Avarias por DTC: 15-1";this.Name="S6M2E46K79100081151FAPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(137,285,13,0,"'Arial','sans-serif'",0,"<b></b>Lado dos fios dos terminais fêmea");this.CallOut[i++]=FS4(161,16,13,0,"'Arial','sans-serif'",0,"<b>FICHA O1o </b>");}

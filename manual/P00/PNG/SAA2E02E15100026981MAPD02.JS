@@ -1,0 +1,1 @@
+function ISAA2E02E15100026981MAPD02(){var i=0;this.Title="Selecção da Anilha de Afinação de Impulso de 25 x 35 mm e Inspecção da Folga de Impulso do Veio da Caixa de Velocidades Final da CVT";this.Name="SAA2E02E15100026981MAPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(308,30,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

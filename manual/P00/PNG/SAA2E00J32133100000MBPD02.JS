@@ -1,0 +1,1 @@
+function ISAA2E00J32133100000MBPD02(){var i=0;this.Title="Regulação do Farol";this.Name="SAA2E00J32133100000MBPD02";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(395,42,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

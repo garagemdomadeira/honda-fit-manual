@@ -1,0 +1,1 @@
+function ISAA2E00F00000057141KBPD01(){var i=0;this.Title="Substituição da Tranca da Direcção";this.Name="SAA2E00F00000057141KBPD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

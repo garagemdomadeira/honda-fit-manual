@@ -1,0 +1,1 @@
+function IS80WA00B00000000000MBPD01(){var i=0;this.Title=" Verificações de Pré-Alinhamento";this.Name="S80WA00B00000000000MBPD01";this.Width=475;this.Height=365;this.CallOut=new Array;}

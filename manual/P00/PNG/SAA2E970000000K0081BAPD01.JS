@@ -1,0 +1,1 @@
+function ISAA2E970000000K0081BAPD01(){var i=0;this.Title="Lubrificantes e Fluídos";this.Name="SAA2E970000000K0081BAPD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(288,16,12,0,"'Arial','sans-serif'",0,"<b>Óleo do Motor Recomendado<br></b>Viscosidade do óleo do motor para gamas de temperaturas ambiente");}

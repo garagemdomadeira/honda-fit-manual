@@ -1,0 +1,1 @@
+function ISAA2E0FA20300000000CAPD02(){var i=0;this.Title=" Sinais de Entrada e de Saída do ECM/PCM na Ficha B (24P)";this.Name="SAA2E0FA20300000000CAPD02";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(335,288,12,0,"'Arial','sans-serif'",0,"<b></b>Lado dos fios dos terminais fêmea");}

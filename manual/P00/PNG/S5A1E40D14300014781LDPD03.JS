@@ -1,0 +1,1 @@
+function IS5A1E40D14300014781LDPD03(){var i=0;this.Title=" Sem ABS";this.Name="S5A1E40D14300014781LDPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(328,41,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(366,288,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E00G24100014602FAPD08(){var i=0;this.Title="Diagnóstico de Avarias por DTC: 12";this.Name="SAA2E00G24100014602FAPD08";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(83,32,13,0,"'Arial','sans-serif'",0,"<b>TOMADA DE 5P DO RELÉ DO MOTOR DO VENTILADOR</b>");this.CallOut[i++]=FS4(269,94,13,0,"'Arial','sans-serif'",0,"<b>WHT/BLU</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E01E34150439501KBPD03(){var i=0;this.Title="Substituição do Retentor e do Rolamento do Veio Primário da M/T";this.Name="SAA2E01E34150439501KBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(339,59,13,0,"'Arial','sans-serif'",0,"<b>07749-0010000</b>");this.CallOut[i++]=FS4(30,269,13,0,"'Arial','sans-serif'",0,"<b>07749-0010200</b>");}

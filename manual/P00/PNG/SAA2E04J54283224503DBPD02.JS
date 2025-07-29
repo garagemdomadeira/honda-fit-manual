@@ -1,0 +1,1 @@
+function ISAA2E04J54283224503DBPD02(){var i=0;this.Title=" Versão RHD:";this.Name="SAA2E04J54283224503DBPD02";this.Width=950;this.Height=978;this.CallOut=new Array;this.CallOut[i++]=FS4(557,96,12,0,"'Arial','sans-serif'",0,"<b>CABLAGEM DO COMPARTIMENTO DO MOTOR</b>");this.CallOut[i++]=FS4(773,949,12,0,"'Arial','sans-serif'",0,"<b>G301</b>");}

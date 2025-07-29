@@ -1,0 +1,1 @@
+function ISAA2E00J34200057271FEPD01(){var i=0;this.Title=" INTERRUPTOR DE ABERTURA/FECHO, INCLINAÇÃO/FECHO:";this.Name="SAA2E00J34200057271FEPD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(288,80,13,0,"'Arial','sans-serif'",0,"<b></b>Lado do terminal dos<br>terminais macho");}

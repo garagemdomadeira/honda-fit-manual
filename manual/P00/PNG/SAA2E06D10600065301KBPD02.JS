@@ -1,0 +1,1 @@
+function ISAA2E06D10600065301KBPD02(){var i=0;this.Title=" Traseiro";this.Name="SAA2E06D10600065301KBPD02";this.Width=950;this.Height=431;this.CallOut=new Array;this.CallOut[i++]=FS4(97,127,12,0,"'Arial','sans-serif'",0,"<b>SENSOR DA RODA</b>");this.CallOut[i++]=FS4(102,15,12,0,"'Arial','sans-serif'",0,"<b>PARAFUSO de 6 mm<br>9,8 N&middot;m (1,0 kgf&middot;m)</b>");}

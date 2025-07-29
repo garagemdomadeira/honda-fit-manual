@@ -1,0 +1,1 @@
+function ISAA2E00E16226600000KAPD04(){var i=0;this.Title=" Veio da transmissão direito:";this.Name="SAA2E00E16226600000KAPD04";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(95,17,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(366,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

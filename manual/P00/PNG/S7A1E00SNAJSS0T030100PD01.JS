@@ -1,0 +1,1 @@
+function IS7A1E00SNAJSS0T030100PD01(){var i=0;this.Title=" Ferramenta Especial Necessária";this.Name="S7A1E00SNAJSS0T030100PD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISAA2E90A14680200000MBPD01(){var i=0;this.Title="Afinação da Folga da Válvula";this.Name="SAA2E90A14680200000MBPD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(312,18,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(165,352,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

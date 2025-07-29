@@ -1,0 +1,1 @@
+function ISAA2E00J18573958351KBPD02(){var i=0;this.Title=" Sem interruptor do canhão:";this.Name="SAA2E00J18573958351KBPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(107,283,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

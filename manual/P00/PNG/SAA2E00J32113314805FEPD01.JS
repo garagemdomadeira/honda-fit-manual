@@ -1,0 +1,1 @@
+function ISAA2E00J32113314805FEPD01(){var i=0;this.Title="Ensaio do Interruptor da Posição do Pedal de Travões";this.Name="SAA2E00J32113314805FEPD01";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(341,220,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(313,295,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

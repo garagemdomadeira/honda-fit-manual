@@ -1,0 +1,1 @@
+function ISAA2E09J54283225021DBPD01(){var i=0;this.Title="Localizações da Cablagem do Motor";this.Name="SAA2E09J54283225021DBPD01";this.Width=950;this.Height=924;this.CallOut=new Array;this.CallOut[i++]=FS4(568,14,12,0,"'Arial','sans-serif'",0,"<b>CABLAGEM DO MOTOR</b>");this.CallOut[i++]=FS4(653,895,12,0,"'Arial','sans-serif'",0,"<b>G101</b>");}

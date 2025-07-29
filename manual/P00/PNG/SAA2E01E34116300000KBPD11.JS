@@ -1,0 +1,1 @@
+function ISAA2E01E34116300000KBPD11(){var i=0;this.Title=" Inspecção do Volante do Motor";this.Name="SAA2E01E34116300000KBPD11";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(291,18,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(372,19,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E00J54400020371MBPD03(){var i=0;this.Title="Ajuste do Vidro";this.Name="SAA2E00J54400020371MBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(105,199,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(261,285,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

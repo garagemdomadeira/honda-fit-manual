@@ -1,0 +1,1 @@
+function ISAA2E02E15100013001MAPD01(){var i=0;this.Title="Verificação do Nível do ATF";this.Name="SAA2E02E15100013001MAPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(439,194,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

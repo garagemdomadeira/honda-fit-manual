@@ -1,0 +1,1 @@
+function ISAA2E00J46643421011FEPD02(){var i=0;this.Title=" Com Super Fechadura (Porta do condutor):";this.Name="SAA2E00J46643421011FEPD02";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(374,194,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(282,286,13,0,"'Arial','sans-serif'",0,"<b></b>Lado do terminal dos<br>terminais macho");}

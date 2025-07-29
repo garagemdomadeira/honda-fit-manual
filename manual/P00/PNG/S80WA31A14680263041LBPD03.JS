@@ -1,0 +1,1 @@
+function IS80WA31A14680263041LBPD03(){var i=0;this.Title="Rectificação da Sede da Válvula";this.Name="S80WA31A14680263041LBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(72,113,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(196,259,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

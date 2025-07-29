@@ -1,0 +1,1 @@
+function ISAA2E07G10110112012FAPD01(){var i=0;this.Title="Diagnóstico de Avarias do Circuito do Compressor do A/C";this.Name="SAA2E07G10110112012FAPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(36,34,13,0,"'Arial','sans-serif'",0,"<b>TOMADA DE 5P DO RELÉ DA EMBRAIAGEM DO COMPRESSOR</b>");}

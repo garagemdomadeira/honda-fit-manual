@@ -1,0 +1,1 @@
+function IS80WA00H46400000000AAPD13(){var i=0;this.Title=" Fichas dos Airbags Dianteiros:";this.Name="S80WA00H46400000000AAPD13";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(291,21,13,0,"'Arial','sans-serif'",0,"<b>C</b>");this.CallOut[i++]=FS4(122,254,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

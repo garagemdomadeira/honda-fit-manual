@@ -1,0 +1,1 @@
+function ISAA2E00J54283222101DBPD04(){var i=0;this.Title="Localizações das Cablagens das Portas do Condutor e do Passageiro Dianteiro";this.Name="SAA2E00J54283222101DBPD04";this.Width=950;this.Height=543;this.CallOut=new Array;this.CallOut[i++]=FS4(106,514,12,0,"'Arial','sans-serif'",0,"<b>CABLAGEM DA PORTA TRASEIRA ESQUERDA</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E01E34116300000KBPD15(){var i=0;this.Title=" Instalação do Disco da Embraiagem e do Prato de Pressão";this.Name="SAA2E01E34116300000KBPD15";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(356,37,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(371,171,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E00A14674359528KCPD01(){var i=0;this.Title="Instalação do Retentor do Cárter da Corrente da Árvore de Cames";this.Name="SAA2E00A14674359528KCPD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(297,43,13,0,"'Arial','sans-serif'",0,"<b>07749-0010000</b>");this.CallOut[i++]=FS4(26,342,13,0,"'Arial','sans-serif'",0,"<b>07746-0010400</b>");}

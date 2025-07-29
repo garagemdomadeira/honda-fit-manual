@@ -1,0 +1,1 @@
+function ISAA2E00B20200019101KBPD06(){var i=0;this.Title=" Montagem";this.Name="SAA2E00B20200019101KBPD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(346,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(432,164,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E98K72100081452FAPD01(){var i=0;this.Title="Diagnóstico de Avarias por DTC: P0171 (45-2), P0172 (45-1)";this.Name="SAA2E98K72100081452FAPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(49,233,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(376,46,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

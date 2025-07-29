@@ -1,0 +1,1 @@
+function ISAA2E01E34100014001FEPD01(){var i=0;this.Title="Ensaio do Interruptor da Luz da Marcha-Atrás";this.Name="SAA2E01E34100014001FEPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(306,28,13,0,"'Arial','sans-serif'",0,"<b>A<br>29 N&middot;m (3,0 kgf&middot;m)</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E00D14300014721MAPD02(){var i=0;this.Title=" Espessura e Paralelismo";this.Name="SAA2E00D14300014721MAPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(235,16,13,0,"'Arial','sans-serif'",0,"<b>10 mm </b>");}

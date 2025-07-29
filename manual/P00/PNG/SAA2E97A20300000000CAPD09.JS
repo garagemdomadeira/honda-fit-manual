@@ -1,0 +1,1 @@
+function ISAA2E97A20300000000CAPD09(){var i=0;this.Title=" Sensor da Posição da Cambota (CKP)";this.Name="SAA2E97A20300000000CAPD09";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(237,26,13,0,"'Arial','sans-serif'",0,"<b>O-RING</b>");this.CallOut[i++]=FS4(393,45,13,0,"'Arial','sans-serif'",0,"<b>ÍMAN</b>");}

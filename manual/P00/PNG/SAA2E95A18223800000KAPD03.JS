@@ -1,0 +1,1 @@
+function ISAA2E95A18223800000KAPD03(){var i=0;this.Title=" Modelos LHD:";this.Name="SAA2E95A18223800000KAPD03";this.Width=475;this.Height=362;this.CallOut=new Array;this.CallOut[i++]=FS4(229,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(257,327,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

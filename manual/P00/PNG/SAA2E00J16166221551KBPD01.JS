@@ -1,0 +1,1 @@
+function ISAA2E00J16166221551KBPD01(){var i=0;this.Title="Substituição do Vedante Central da Porta Traseira";this.Name="SAA2E00J16166221551KBPD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(326,162,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(413,167,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

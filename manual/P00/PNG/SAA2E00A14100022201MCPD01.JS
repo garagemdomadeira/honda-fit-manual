@@ -1,0 +1,1 @@
+function ISAA2E00A14100022201MCPD01(){var i=0;this.Title=" Com compressor do A/C:";this.Name="SAA2E00A14100022201MCPD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(241,334,13,0,"'Arial','sans-serif'",0,"<b>07JGG-0010100</b>");}

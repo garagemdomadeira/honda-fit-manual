@@ -1,0 +1,1 @@
+function ISAA2E97A20300000000CAPD14(){var i=0;this.Title=" Sensor do Ponto Morto Superior (TDC)";this.Name="SAA2E97A20300000000CAPD14";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(322,13,13,0,"'Arial','sans-serif'",0,"<b>O-RING</b>");this.CallOut[i++]=FS4(395,39,13,0,"'Arial','sans-serif'",0,"<b>ÍMAN</b>");}

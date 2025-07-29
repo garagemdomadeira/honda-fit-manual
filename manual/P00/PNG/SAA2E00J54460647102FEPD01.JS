@@ -1,0 +1,1 @@
+function ISAA2E00J54460647102FEPD01(){var i=0;this.Title="Ensaio do Motor do Vidro Eléctrico do Passageiro ";this.Name="SAA2E00J54460647102FEPD01";this.Width=475;this.Height=497;this.CallOut=new Array;this.CallOut[i++]=FS4(388,335,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(29,88,13,0,"'Arial','sans-serif'",0,"<b></b>Lado do terminal dos<br>terminais macho");}

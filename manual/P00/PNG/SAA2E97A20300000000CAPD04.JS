@@ -1,0 +1,1 @@
+function ISAA2E97A20300000000CAPD04(){var i=0;this.Title=" Entradas e Saídas do PCM na Ficha C (22P)* 2";this.Name="SAA2E97A20300000000CAPD04";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(368,272,12,0,"'Arial','sans-serif'",0,"<b></b>Lado dos fios dos terminais fêmea");}

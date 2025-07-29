@@ -1,0 +1,1 @@
+function IS80WA91A14400059301FEPD01(){var i=0;this.Title="Ensaio do Termostato";this.Name="S80WA91A14400059301FEPD01";this.Width=475;this.Height=410;this.CallOut=new Array;this.CallOut[i++]=FS4(363,28,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(381,203,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

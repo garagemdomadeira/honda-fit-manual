@@ -1,0 +1,1 @@
+function ISAA2E00E16226600000KAPD03(){var i=0;this.Title=" Veio da transmissão esquerdo:";this.Name="SAA2E00E16226600000KAPD03";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(159,15,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(392,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

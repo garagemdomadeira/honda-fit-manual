@@ -1,0 +1,1 @@
+function IS5A2EJ0E16226600000LDPD05(){var i=0;this.Title=" Lado da União Interior";this.Name="S5A2EJ0E16226600000LDPD05";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(355,176,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

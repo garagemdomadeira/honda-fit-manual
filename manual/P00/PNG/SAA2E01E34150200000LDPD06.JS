@@ -1,0 +1,1 @@
+function ISAA2E01E34150200000LDPD06(){var i=0;this.Title="Montagem do Contraveio da M/T";this.Name="SAA2E01E34150200000LDPD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(280,43,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(380,116,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

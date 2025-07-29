@@ -1,0 +1,1 @@
+function ISAA2E00J36100000000FEPD11(){var i=0;this.Title=" Verificação do Monitor";this.Name="SAA2E00J36100000000FEPD11";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(381,37,16,0,"'Arial','sans-serif'",0,"<b>Retorno</b>");}

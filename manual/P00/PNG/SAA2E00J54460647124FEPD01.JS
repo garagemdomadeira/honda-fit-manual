@@ -1,0 +1,1 @@
+function ISAA2E00J54460647124FEPD01(){var i=0;this.Title="Ensaio do Interruptor do Vidro Eléctrico do Passageiro";this.Name="SAA2E00J54460647124FEPD01";this.Width=475;this.Height=481;this.CallOut=new Array;this.CallOut[i++]=FS4(310,207,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

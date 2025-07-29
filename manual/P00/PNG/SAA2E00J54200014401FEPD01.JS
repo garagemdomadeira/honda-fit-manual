@@ -1,0 +1,1 @@
+function ISAA2E00J54200014401FEPD01(){var i=0;this.Title="Ensaio da bateria";this.Name="SAA2E00J54200014401FEPD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(309,59,13,0,"'Arial','sans-serif'",0,"<b>CÓDIGO DA BATERIA</b>");this.CallOut[i++]=FS4(228,14,13,0,"'Arial','sans-serif'",0,"<b>38B19L-MF</b>");}

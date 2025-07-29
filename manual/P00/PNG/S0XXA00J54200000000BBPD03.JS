@@ -1,0 +1,1 @@
+function IS0XXA00J54200000000BBPD03(){var i=0;this.Title=" Manuseamento das Fichas";this.Name="S0XXA00J54200000000BBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;}

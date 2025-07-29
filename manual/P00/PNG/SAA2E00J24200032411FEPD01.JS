@@ -1,0 +1,1 @@
+function ISAA2E00J24200032411FEPD01(){var i=0;this.Title="Ensaio do Interruptor da Buzina";this.Name="SAA2E00J24200032411FEPD01";this.Width=475;this.Height=481;this.CallOut=new Array;this.CallOut[i++]=FS4(35,222,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(429,179,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

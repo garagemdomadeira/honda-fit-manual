@@ -1,0 +1,1 @@
+function IS5A2EJ0E16226622502KBPD01(){var i=0;this.Title="Substituição do Amortecedor Dinâmico do Veio da Caixa de Velocidades";this.Name="S5A2EJ0E16226622502KBPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(360,255,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(150,19,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function IS80YA00H46400000000AAPD03(){var i=0;this.Title=" Ficha do Airbag Lateral:";this.Name="S80YA00H46400000000AAPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(161,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(162,288,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISAA2E99K77100000000BBPD01(){var i=0;this.Title=" Como verificar por DTC com a Ferramenta de Pesquisa/PGM Tester";this.Name="SAA2E99K77100000000BBPD01";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(259,298,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(234,14,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

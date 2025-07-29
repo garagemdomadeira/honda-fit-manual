@@ -1,0 +1,1 @@
+function IS0XYA82J36100000000CAPD05(){var i=0;this.Title=" Sistema Global de Posicionamento (GPS)";this.Name="S0XYA82J36100000000CAPD05";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(55,287,12,0,"'Arial','sans-serif'",0,"<b></b>NOTA: Quatro satélites em cada uma das seis órbitas.");}

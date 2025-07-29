@@ -1,0 +1,1 @@
+function ISAA2E11E15100000000FEPD01(){var i=0;this.Title="Teste de Estrada da CVT - Com Modo de 7 velocidades";this.Name="SAA2E11E15100000000FEPD01";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(279,306,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(360,213,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

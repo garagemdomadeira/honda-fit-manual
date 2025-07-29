@@ -1,0 +1,1 @@
+function IS0XXA00J54200000000BBPD01(){var i=0;this.Title=" Manuseamento das Fichas";this.Name="S0XXA00J54200000000BBPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(136,275,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(265,80,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

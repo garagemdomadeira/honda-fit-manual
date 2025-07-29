@@ -1,0 +1,1 @@
+function ISAA2E00J16166220801KBPD06(){var i=0;this.Title="Substituição do Fecho da Porta Traseira";this.Name="SAA2E00J16166220801KBPD06";this.Width=475;this.Height=327;this.CallOut=new Array;this.CallOut[i++]=FS4(306,18,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(349,72,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

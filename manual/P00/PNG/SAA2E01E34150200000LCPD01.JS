@@ -1,0 +1,1 @@
+function ISAA2E01E34150200000LCPD01(){var i=0;this.Title="Desmontagem do Contraveio da M/T";this.Name="SAA2E01E34150200000LCPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(237,12,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(393,151,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

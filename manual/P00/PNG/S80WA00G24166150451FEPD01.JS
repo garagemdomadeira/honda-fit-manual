@@ -1,0 +1,1 @@
+function IS80WA00G24166150451FEPD01(){var i=0;this.Title="Ensaio do Funcionamento do Desembaciador do Vidro Traseiro";this.Name="S80WA00G24166150451FEPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(437,25,12,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(37,25,12,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function IS80WA00G24100040301FEPD01(){var i=0;this.Title="Ensaio do Motor de Controlo do Modo";this.Name="S80WA00G24100040301FEPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(140,30,13,0,"'Arial','sans-serif'",0,"<b>MOTOR DE CONTROLO DO MODO</b>");}

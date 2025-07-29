@@ -1,0 +1,1 @@
+function ISAA2E95A18223800000KAPD08(){var i=0;this.Title="Remoção do Motor";this.Name="SAA2E95A18223800000KAPD08";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(436,86,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(74,275,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

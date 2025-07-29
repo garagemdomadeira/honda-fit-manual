@@ -1,0 +1,1 @@
+function IS9V3A00A26100055901MAPD01(){var i=0;this.Title="Inspecção da Vela de Ignição";this.Name="S9V3A00A26100055901MAPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(354,29,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

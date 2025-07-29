@@ -1,0 +1,1 @@
+function ISAA2E00A18316600000KCPD02(){var i=0;this.Title="Instalação da Cambota";this.Name="SAA2E00A18316600000KCPD02";this.Width=475;this.Height=375;this.CallOut=new Array;this.CallOut[i++]=FS4(329,26,13,0,"'Arial','sans-serif'",0,"<b>7-8mm</b>");}

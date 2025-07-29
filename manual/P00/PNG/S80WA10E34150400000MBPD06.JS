@@ -1,0 +1,1 @@
+function IS80WA10E34150400000MBPD06(){var i=0;this.Title=" Fórmula de Selecção da Anilha de Afinação:";this.Name="S80WA10E34150400000MBPD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(381,20,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(368,124,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

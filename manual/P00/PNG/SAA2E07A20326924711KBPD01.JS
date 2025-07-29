@@ -1,0 +1,1 @@
+function ISAA2E07A20326924711KBPD01(){var i=0;this.Title="Substituição do Sensor ECT";this.Name="SAA2E07A20326924711KBPD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(339,241,13,0,"'Arial','sans-serif'",0,"<b>A<br>12 N&middot;m<br>(1,2 kgf&middot;m)</b>");this.CallOut[i++]=FS4(342,181,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

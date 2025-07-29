@@ -1,0 +1,1 @@
+function ISAA2E00J18526226956KBPD03(){var i=0;this.Title="Substituição das Protecções do Guarda-Lamas Dianteiro";this.Name="SAA2E00J18526226956KBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(66,130,13,0,"'Arial','sans-serif'",0,"<b>D</b>");this.CallOut[i++]=FS4(361,38,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

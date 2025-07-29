@@ -1,0 +1,1 @@
+function ISAA2E90A14666351511MAPD02(){var i=0;this.Title="Inspecção do Balanceiro e do Veio";this.Name="SAA2E90A14666351511MAPD02";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(313,126,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

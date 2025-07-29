@@ -1,0 +1,1 @@
+function ISAA2E00J54400065501KBPD01(){var i=0;this.Title="Substituição do Pára-Brisas";this.Name="SAA2E00J54400065501KBPD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(356,153,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(241,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

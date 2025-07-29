@@ -1,0 +1,1 @@
+function ISAA2E02E15117519611MAPD02(){var i=0;this.Title="Inspecção da Folga Lateral do Rolamento da Coquilha do Diferencial da CVT";this.Name="SAA2E02E15117519611MAPD02";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(355,36,13,0,"'Arial','sans-serif'",0,"<b>07746-0030100</b>");}

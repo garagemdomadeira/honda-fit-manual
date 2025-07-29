@@ -1,0 +1,1 @@
+function ISAA2E01E34150400000MAPD07(){var i=0;this.Title="Inspecção da Folga do Conjunto do Veio Primário da M/T";this.Name="SAA2E01E34150400000MAPD07";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(367,239,13,0,"'Arial','sans-serif'",0,"<b><span style=\"font-size:90%;\">(2)</span></b>");}

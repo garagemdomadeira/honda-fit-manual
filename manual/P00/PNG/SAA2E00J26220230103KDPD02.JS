@@ -1,0 +1,1 @@
+function ISAA2E00J26220230103KDPD02(){var i=0;this.Title="Remoção/Instalação da Tampa do Porta-Luvas";this.Name="SAA2E00J26220230103KDPD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(47,19,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(86,279,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

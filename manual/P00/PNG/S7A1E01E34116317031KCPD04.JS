@@ -1,0 +1,1 @@
+function IS7A1E01E34116317031KCPD04(){var i=0;this.Title="Remoção da Bomba Principal da Embraiagem";this.Name="S7A1E01E34116317031KCPD04";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(340,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(154,304,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

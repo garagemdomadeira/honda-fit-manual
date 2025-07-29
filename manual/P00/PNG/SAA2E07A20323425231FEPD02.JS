@@ -1,0 +1,1 @@
+function ISAA2E07A20323425231FEPD02(){var i=0;this.Title="Ensaio da Válvula de Duas Vias de EVAP";this.Name="SAA2E07A20323425231FEPD02";this.Width=475;this.Height=481;this.CallOut=new Array;this.CallOut[i++]=FS4(144,356,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(37,278,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

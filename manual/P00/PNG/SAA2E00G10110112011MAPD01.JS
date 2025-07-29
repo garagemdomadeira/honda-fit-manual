@@ -1,0 +1,1 @@
+function ISAA2E00G10110112011MAPD01(){var i=0;this.Title="Verificação da Embraiagem do Compressor do A/C";this.Name="SAA2E00G10110112011MAPD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

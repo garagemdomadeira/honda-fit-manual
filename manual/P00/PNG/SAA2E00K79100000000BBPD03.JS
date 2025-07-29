@@ -1,0 +1,1 @@
+function ISAA2E00K79100000000BBPD03(){var i=0;this.Title=" Apagar a Memória DTC";this.Name="SAA2E00K79100000000BBPD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(429,95,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(18,268,13,0,"'Arial','sans-serif'",0,"<b>B<br>07PAZ-0010100</b>");}
